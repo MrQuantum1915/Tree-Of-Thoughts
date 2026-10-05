@@ -1,0 +1,18 @@
+[
+    {
+        "idx": 900,
+        "ys": [
+            "Input: 4 5 6 10\nSteps:\n10 - 4 = 6 (left: 6 5 6)\n6 * 5 = 30 (left: 30 6)\n30 - 6 = 24 (left: 24)\nAnswer: (10 - 4) * 5 - 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 560,
+            "prompt_tokens": 537,
+            "cost": 0.00041655
+        }
+    }
+]
